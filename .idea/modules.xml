@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/devicediscoveryclient/devicediscoveryclient.iml" filepath="$PROJECT_DIR$/devicediscoveryclient/devicediscoveryclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devicediscoveryserver/devicediscoveryserver.iml" filepath="$PROJECT_DIR$/devicediscoveryserver/devicediscoveryserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples.iml" filepath="$PROJECT_DIR$/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fridgeclient/fridgeclient.iml" filepath="$PROJECT_DIR$/fridgeclient/fridgeclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fridgegroupclient/fridgegroupclient.iml" filepath="$PROJECT_DIR$/fridgegroupclient/fridgegroupclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fridgegroupserver/fridgegroupserver.iml" filepath="$PROJECT_DIR$/fridgegroupserver/fridgegroupserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fridgeserver/fridgeserver.iml" filepath="$PROJECT_DIR$/fridgeserver/fridgeserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groupclient/groupclient.iml" filepath="$PROJECT_DIR$/groupclient/groupclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groupserver/groupserver.iml" filepath="$PROJECT_DIR$/groupserver/groupserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guiclient/guiclient.iml" filepath="$PROJECT_DIR$/guiclient/guiclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presenceclient/presenceclient.iml" filepath="$PROJECT_DIR$/presenceclient/presenceclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presenceserver/presenceserver.iml" filepath="$PROJECT_DIR$/presenceserver/presenceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provisioningclient/provisioningclient.iml" filepath="$PROJECT_DIR$/provisioningclient/provisioningclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleclient/simpleclient.iml" filepath="$PROJECT_DIR$/simpleclient/simpleclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleserver/simpleserver.iml" filepath="$PROJECT_DIR$/simpleserver/simpleserver.iml" />
+    </modules>
+  </component>
+</project>

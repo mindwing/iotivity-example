@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/devicediscoveryclient" />
+            <option value="$PROJECT_DIR$/devicediscoveryserver" />
+            <option value="$PROJECT_DIR$/fridgeclient" />
+            <option value="$PROJECT_DIR$/fridgegroupclient" />
+            <option value="$PROJECT_DIR$/fridgegroupserver" />
+            <option value="$PROJECT_DIR$/fridgeserver" />
+            <option value="$PROJECT_DIR$/groupclient" />
+            <option value="$PROJECT_DIR$/groupserver" />
+            <option value="$PROJECT_DIR$/guiclient" />
+            <option value="$PROJECT_DIR$/presenceclient" />
+            <option value="$PROJECT_DIR$/presenceserver" />
+            <option value="$PROJECT_DIR$/provisioningclient" />
+            <option value="$PROJECT_DIR$/simpleclient" />
+            <option value="$PROJECT_DIR$/simpleserver" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/devicediscoveryclient" />
+            <option value="$PROJECT_DIR$/devicediscoveryserver" />
+            <option value="$PROJECT_DIR$/fridgeclient" />
+            <option value="$PROJECT_DIR$/fridgegroupclient" />
+            <option value="$PROJECT_DIR$/fridgegroupserver" />
+            <option value="$PROJECT_DIR$/fridgeserver" />
+            <option value="$PROJECT_DIR$/groupclient" />
+            <option value="$PROJECT_DIR$/groupserver" />
+            <option value="$PROJECT_DIR$/guiclient" />
+            <option value="$PROJECT_DIR$/presenceclient" />
+            <option value="$PROJECT_DIR$/presenceserver" />
+            <option value="$PROJECT_DIR$/provisioningclient" />
+            <option value="$PROJECT_DIR$/simpleclient" />
+            <option value="$PROJECT_DIR$/simpleserver" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
